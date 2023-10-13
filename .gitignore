@@ -1,2 +1,4 @@
 hw1/data/
 **/.idea/
+**/__pycache__/
+.gitignore

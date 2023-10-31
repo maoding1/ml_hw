@@ -1,0 +1,5 @@
+gym==0.26.1
+matplotlib==3.7.2
+numpy==1.23.5
+tensorboardX==2.2
+torch==1.13.1
